@@ -1,0 +1,12 @@
+{
+  "name": "fs04-git-intro",
+  "version": "1.0.0",
+  "description": "## Another title",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
